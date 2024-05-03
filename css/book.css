@@ -1,0 +1,14 @@
+p {
+    text-align: left;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 100;
+    line-height: 1.5;
+}
+
+
+img {
+    height: 110px;
+    width: 110px;
+    margin-left: 5%;
+    display: inline-block;
+}

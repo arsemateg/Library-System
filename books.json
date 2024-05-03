@@ -1,0 +1,1273 @@
+{
+  "data": [
+  {
+    "id": 142,
+    "title": "A Different Pond",
+    "author": "Bao Phi",
+    "genre": "fiction",
+    "summary": "A Different Pond is a 2017 children's picture book by Bao Phi, illustrated by Thi Bui. The book tells the story of a boy and his father going fishing. Phi created the book because of his desire to have books about people like himself to read to his daughter.",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 96,
+    "title": "A Tale For The Time Being",
+    "author": "Ruth Ozeki",
+    "genre": "fiction",
+    "summary": "A Tale for the Time Being is a metafictional novel by Ruth Ozeki narrated by two characters, a sixteen-year-old Japanese American girl living in Tokyo who keeps a diary, and a Japanese American writer living on an island off the coast of British Columbia who finds the diary of the young woman washed ashore some time after the 2011 tsunami that devastated Japan",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 33,
+    "title": "Agile Testing",
+    "author": "Addison Wesley",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 83,
+    "title": "Agile Testing",
+    "author": "Crispin, Gregory",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 112,
+    "title": "Alexander Hamilton",
+    "author": "Ron Chernow",
+    "genre": "non-fiction",
+    "summary": "Pulitzer Prize-winning author Ron Chernow presents a landmark biography of Alexander Hamilton, the Founding Father who galvanized, inspired, scandalized, and shaped the newborn nation.",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 95,
+    "title": "Another Country",
+    "author": "James Baldwin",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 11,
+    "title": "Becoming a Resonant Leader",
+    "author": "Annie Mckee, Richard Boyatzis, Frances Johnston",
+    "genre": "self-help",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 73,
+    "title": "BizTalk Server 2006",
+    "author": "Jefford Smith Fairweather",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 135,
+    "title": "Black Girl Dangerous",
+    "author": "Mia Mckenzie",
+    "genre": "non-fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 146,
+    "title": "Black’s Law Dictionary",
+    "author": "Bryan A. Garner",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 25,
+    "title": "Bootstrap Methods and their Application",
+    "author": "Davison Hinkley",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 20,
+    "title": "Buddha’s Brain: The Practical Neuroscience of Happines, Love and Wisdom",
+    "author": "Hanson",
+    "genre": "self-help",
+    "summary": "If you change your brain, you can change your life.",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 81,
+    "title": "Certified Information Systems Security Professional: Official Practice Tests",
+    "author": "Mike Chapple, David Seidl",
+    "genre": "educational",
+    "summary": "Great teachers like the Buddha, Jesus, Moses, Mohammed, and Gandhi were all born with brains built essentially like anyone else’s―and then they changed their brains in ways that changed the world. Science is now revealing how the flow of thoughts actually sculpts the brain, and more and more, we are learning that it's possible to strengthen positive brain states.",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 59,
+    "title": "CISSP Practice Exams",
+    "author": "Harris Ham",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 82,
+    "title": "ColdFusion MX for Dummies",
+    "author": "Ashenfelrer Kocen",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 16,
+    "title": "Collaborative Intelligence",
+    "author": "Dawna Markova, Angie McArthur",
+    "genre": "self-help",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 65,
+    "title": "CompTIA Network + EXAM N10-005",
+    "author": "Robb H. Tracy",
+    "genre": "educational",
+    "summary": "Collaborative intelligence, or CQ, is a measure of our ability to think with others on behalf of what matters to us all. It is emerging as a new professional currency at a time when the way we think, interact, and innovate is shifting. In the past, “market share” companies ruled by hierarchy and topdown leadership. Today, the new market leaders are “mind share” companies, where influence is more important than power, and success relies on collaboration and the ability to inspirer.",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 48,
+    "title": "Computability and Unsolvability",
+    "author": "Davis Dover",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 113,
+    "title": "Computer Networks: A Systems Approach",
+    "author": "Peterson Davie, Morgan Kaufman",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 66,
+    "title": "Copyright Your Software",
+    "author": "Fishman",
+    "genre": "educational",
+    "summary": "2 copies",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 27,
+    "title": "Cradle",
+    "author": "William McDonnough, Michael Braungart",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 108,
+    "title": "Crossroads of Twilight",
+    "author": "Robert Jordan",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 41,
+    "title": "Data Mining Techniques",
+    "author": "TBD",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 44,
+    "title": "Debugging the Development Process",
+    "author": "Steve Maguire",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 116,
+    "title": "Deeper Than Swords",
+    "author": "Texas A&M UNiversity",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 94,
+    "title": "Disoriental",
+    "author": "Negar Djavadi",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 69,
+    "title": "e-Patent Strategies",
+    "author": "LBI Instritute",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 138,
+    "title": "Eastern USA",
+    "author": "lonley planet",
+    "genre": "non-fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 99,
+    "title": "Edinburgh",
+    "author": "Alexander Chee",
+    "genre": "non-fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 40,
+    "title": "Effective java",
+    "author": "Bloch",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 46,
+    "title": "Effective Java",
+    "author": "Bloch",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 106,
+    "title": "Ever Vigilant",
+    "author": "Dr. J. Phillip London",
+    "genre": "business",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 58,
+    "title": "Expert Cube Development With Microsoft",
+    "author": "Chris Webb, Alberto Ferrari, Marco Russo",
+    "genre": "educational",
+    "summary": "How do successful entrepreneurial leaders become legendary? Many characteristics lead to a legacy of exemplary leadership and enduring success. Entrepreneurial spirit, good character, risk-taking, commitment, initiative, confidence, independence, vision, determination, persistence, and endurance proved to be the winning combination for Dr. J. Phillip (Jack) London. These attributes are interwoven throughout his lifetime as narrated in this memoir that reveals his transformation from a kid living in rural Oklahoma to a midshipman at the US Naval Academy, as a Navy Aviator, followed by President and CEO of a government contracting company and culminating in his role as Executive Chairman and Chairman of the Board of CACI International, a Fortune 500 company employing over 23,000 people in 155 offices worldwide.",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 34,
+    "title": "Exploratory Software Testing",
+    "author": "Addison Wesley",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 62,
+    "title": "Eyewitness Wonders of the World",
+    "author": "TBD",
+    "genre": "non-fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 13,
+    "title": "Finders Keepers: The Monster Guide to Hiring and Holding the World’s Best Employees",
+    "author": "Pete Pogozelski",
+    "genre": "business",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 15,
+    "title": "For Love",
+    "author": "Alice Yoo, Eugene Kim",
+    "genre": "non-fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 1,
+    "title": "Fundamentals of Biostatistics",
+    "author": "Rosner",
+    "genre": "educational",
+    "summary": "This collection of highly creative and incredibly moving visual stories from 25 contemporary photographers has been thoughtfully curated by Alice Yoo and Eugene Kim, founders of the leading art and culture blog My Modern Met. These photo essays capture magnificent displays of ordinary people—parents and children, husbands and wives, grandparents, friends, siblings, and pet owners—doing extraordinary things for love.",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 87,
+    "title": "Giovanni’s Room",
+    "author": "James Baldwin",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 31,
+    "title": "Give and Take: Why Helping Others Drives Our Success",
+    "author": "Adam Grant",
+    "genre": "self-help",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 133,
+    "title": "GO for Beginners",
+    "author": "Kaoru Iwamoto",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 12,
+    "title": "Great By Choice",
+    "author": "Jim Collins",
+    "genre": "business",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 71,
+    "title": "Hire with your Head",
+    "author": "Adler",
+    "genre": "business",
+    "summary": "Ten years after the worldwide bestseller Good to Great, Jim Collins returns withanother groundbreaking work, this time to ask: why do some companies thrive inuncertainty, even chaos, and others do not? Based on nine years of research,buttressed by rigorous analysis and infused with engaging stories, Collins andhis colleague Morten Hansen enumerate the principles for building a truly greatenterprise in unpredictable, tumultuous and fast-moving times. This book isclassic Collins: contrarian, data-driven and uplifting.",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 42,
+    "title": "Holup on Patterns",
+    "author": "Apress",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 17,
+    "title": "Imagine It Forward",
+    "author": "Beth Comstock",
+    "genre": "self-help",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 45,
+    "title": "Implementing Splunk",
+    "author": "Vincent Bumgarner",
+    "genre": "educational",
+    "summary": "Confronting change is incredibly hard, both organizationally and personally. People become resistant. They are afraid. Yet the pace of change in our world will never be slower than it is right now, says Beth Comstock, the former Vice Chair and head of marketing and innovation at GE.",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 70,
+    "title": "Intellectual Property",
+    "author": "Miller-Davis",
+    "genre": "self-help",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 4,
+    "title": "Interaction Design: Beyond Human-Computer Interaction",
+    "author": "Helen Sharp, Jennifer Preece, Yvonne Rogers",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 39,
+    "title": "Introducing ASP.NET 2.0",
+    "author": "Microsoft Press",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 24,
+    "title": "Introduction to Meta-Analysis",
+    "author": "Borenstein Hedges, Higgins Rothstein",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 64,
+    "title": "Introduction to Stochastic Processes",
+    "author": "Dover",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 50,
+    "title": "Introduction to the Theory of Computation",
+    "author": "Sipser",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 29,
+    "title": "It Happened in India",
+    "author": "Kishore Biyani",
+    "genre": "non-fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 84,
+    "title": "It’s the Manager",
+    "author": "Jim Clifton, Jim Harter",
+    "genre": "business",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 91,
+    "title": "I’ll Give You The Sun",
+    "author": "Jandy Nelson",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 86,
+    "title": "Juliet Takes a Breath",
+    "author": "Gabby River",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 130,
+    "title": "Kano Graded Go Problems for Beginners: Volume Two",
+    "author": "TBD",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 148,
+    "title": "Knife of Dreams",
+    "author": "Robert Jordan",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 88,
+    "title": "Lone Surviver",
+    "author": "Marcus Luttrell",
+    "genre": "non-fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 72,
+    "title": "Microsoft SQL Server 2005 Integration Services",
+    "author": "Haselden",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 131,
+    "title": "My Best Mathematical and Logic Puzzles",
+    "author": "Gardner",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 98,
+    "title": "My One Word",
+    "author": "Ashcraft and Olsen",
+    "genre": "self-help",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 36,
+    "title": "MYSQL: In a Nutshell",
+    "author": "TBD",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 85,
+    "title": "Nevada",
+    "author": "Imogen Binnie",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 104,
+    "title": "Nimona",
+    "author": "Noelle Stevenson",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 132,
+    "title": "No One Writes to the Colonel",
+    "author": "Gabriel Garcia Marquez",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 49,
+    "title": "Operating System Concepts",
+    "author": "Silberschatz Galvin Gagne",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 111,
+    "title": "Oracle8i The Complete Reference",
+    "author": "Loney Koch",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 103,
+    "title": "Orbiting the Giant Hairball",
+    "author": "Gordon Mackenzie",
+    "genre": "self-help",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 129,
+    "title": "Paper Swordsmen",
+    "author": "Hamm",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 67,
+    "title": "Patient Strategies for Business",
+    "author": "Glazier",
+    "genre": "business",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 126,
+    "title": "Practical Empathy",
+    "author": "Indy Young",
+    "genre": "self-help",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 10,
+    "title": "Practical Hive",
+    "author": "Scott Shaw",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 147,
+    "title": "Pro C# 5.0 and the .NET 4.5 Framework",
+    "author": "TBD",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 136,
+    "title": "Red Seas Under Red Skies",
+    "author": "Scott Lynch",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 3,
+    "title": "Ruling Your World",
+    "author": "Sakyong Mipham",
+    "genre": "self-help",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 124,
+    "title": "Sailing Smart",
+    "author": "Buddy Melges and Charles Mason",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 74,
+    "title": "SharePoint 2007 Development",
+    "author": "Holiday, Alexander, Julia, Robillard, Schwartz, Ranlett, Attis, Buenz, Rizzo",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 30,
+    "title": "Social Intelligence: The Revolutionary New Science of Human Relationships",
+    "author": "Daniel Goleman",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 35,
+    "title": "Software Testing and Continuous Quality Improvement",
+    "author": "Lewis",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 97,
+    "title": "Song of a Captive Bird",
+    "author": "Jasmin Darzink",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 122,
+    "title": "Speed Baduk: Answers Level 10-12",
+    "author": "Oromedia",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 119,
+    "title": "Speed Baduk: Level 10",
+    "author": "Oromedia",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 120,
+    "title": "Speed Baduk: Level 11",
+    "author": "Oromedia",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 121,
+    "title": "Speed Baduk: Level 12",
+    "author": "Oromedia",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 117,
+    "title": "Speed Baduk: Level 8",
+    "author": "Oromedia",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 118,
+    "title": "Speed Baduk: Level 9",
+    "author": "Oromedia",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 6,
+    "title": "SQL Server 2000 Programming",
+    "author": "Robert Vieira",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 14,
+    "title": "SQL Server 2000 Query Performance Tuning Distilled",
+    "author": "Grant Frithchey",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 78,
+    "title": "SQL Server 2000: Stored Procedure and XML Programming",
+    "author": "Sunderic",
+    "genre": "educational",
+    "summary": "Queries are one of the fundamental tools for manipulating data within SQL Server, and knowledge o f them is a necessity. This book uses a focused and practical approach to provide you with the most efficient methods to employ with queries. It focuses on the means SQL Server provides to understand the cost of a query, and provides recommendations for ways to remedy poorly-performing queries.",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 37,
+    "title": "SQL Server 2005 Integration Services",
+    "author": "TBD",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 47,
+    "title": "SQL Server 2005 Service Broker",
+    "author": "Aschenbrenner",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 75,
+    "title": "SQL Server Analysis Services 2005 with MDX",
+    "author": "Harinath Quinn",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 79,
+    "title": "SQL Server Hardware",
+    "author": "Glenn Berry",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 43,
+    "title": "SQL Tuning",
+    "author": "O Reilly",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 123,
+    "title": "St. Louis",
+    "author": "Insiders’ Guide",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 8,
+    "title": "Super Crunchers: Why Thinking-By-Numbers Is The New Way To Be Smart",
+    "author": "Ian Ayres",
+    "genre": "self-help",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 2,
+    "title": "Symbol",
+    "author": "Angus Hyland/Steven Bateman",
+    "genre": "educational",
+    "summary": "Book written by Ian Ayres, a law professor at Yale Law School, about how quantitative analysis of social behaviour and natural experiment can be creatively deployed to reveal insights in all areas of life, often in unexpected ways.",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 89,
+    "title": "Symptoms of Being Human",
+    "author": "Garvin",
+    "genre": "self-help",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 21,
+    "title": "Taiwan",
+    "author": "Michelin",
+    "genre": "non-fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 140,
+    "title": "Tea with Milk",
+    "author": "Allen Say",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 9,
+    "title": "The Art of Scalability",
+    "author": "Martin L. Abbot, Michael T. Fisher",
+    "genre": "business",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 100,
+    "title": "The Black Tides of Heaven",
+    "author": "Jy Yang",
+    "genre": "fiction",
+    "summary": "In The Art of Scalability, Second Edition, leading scalability consultants Martin L. Abbott and Michael T. Fisher cover everything you need to know to smoothly scale products and services for any requirement. This extensively revised edition reflects new technologies, strategies, and lessons, as well as new case studies from the authors’ pioneering consulting practice, AKF Partners.",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 68,
+    "title": "The Book of IQ Tests",
+    "author": "Sterling Innovation",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 101,
+    "title": "The Descent of Monsters",
+    "author": "Jy Yang",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 109,
+    "title": "The Gathering Storm",
+    "author": "Robert Jordan, Brandon Sanderson",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 60,
+    "title": "The Graphic Design Exercise Book",
+    "author": "Carolyn Knight, Jessica Glaser",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 77,
+    "title": "The Guru’s Guide to Transact-SQL",
+    "author": "Henderson",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 7,
+    "title": "The House On The Cliff",
+    "author": "Franklin W. Dixon",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 28,
+    "title": "The Housekeeper and the Professor",
+    "author": "Yoko Ogawa",
+    "genre": "fiction",
+    "summary": "Frank and Joe Hardy are investigating a mysterious old house high on the cliffs above Barmet Bay when they are frightened off by a scream. The boys return to the apparently haunted house when they make a connection between the place and a smuggling case their father is working on. When their father goes missing, they have to investigate the caves beneath the house and confront the smugglers.",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 105,
+    "title": "The Merrian Webster Dictionary",
+    "author": "TBD",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 134,
+    "title": "The Moscow Puzzles: 359 Mathematical Recreations",
+    "author": "Kordemsky",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 143,
+    "title": "The Name Jar",
+    "author": "Yangsook Choi",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 102,
+    "title": "The Red Threads of Fortune",
+    "author": "Jy Yang",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 23,
+    "title": "The Starfish and The Spider",
+    "author": "Ori Brafman and Rod A. Beckstrom",
+    "genre": "self-help",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 128,
+    "title": "The Tactics of Small Boat Racing",
+    "author": "Norton",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 61,
+    "title": "The Way to Design",
+    "author": "Steve Vassallo",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 32,
+    "title": "The White Tiger",
+    "author": "Aravind Adiga",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 26,
+    "title": "This Changes Everything: Capitalism vs The Climate",
+    "author": "Naomi Klein",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 137,
+    "title": "This Is How You Lose the Time War",
+    "author": "Max Gladstone, Amal El-Mohtar",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 92,
+    "title": "Tomorrow Will Be Different",
+    "author": "Sarah Mcbride",
+    "genre": "non-fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 110,
+    "title": "Towers of Midnight",
+    "author": "Robert Jordan and Brandon Sanderson",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 145,
+    "title": "Tuko and the Birds",
+    "author": "Shirley Climo",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 63,
+    "title": "Undercover: User Experience Design",
+    "author": "Bowles and Box",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 127,
+    "title": "Understanding the Racing Rules of Sailing Through 2012",
+    "author": "Dave Perry",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 38,
+    "title": "Visual C#: How to Program",
+    "author": "Deitel",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 125,
+    "title": "Walking Tours of Cusco and the Sacred Valley",
+    "author": "Brien Foerster",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 90,
+    "title": "we are the ants",
+    "author": "Hutchison",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 76,
+    "title": "Web Programming with HTML, XHT and CSS",
+    "author": "TBD",
+    "genre": "educational",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 114,
+    "title": "What Do You Want To Do Before You Die",
+    "author": "Ben Nemtin",
+    "genre": "self-help",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 115,
+    "title": "What is Mathematics",
+    "author": "Courant Robbins Stewart",
+    "genre": "educational",
+    "summary": "2 copies",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 139,
+    "title": "What is Mathematics ?",
+    "author": "Courant Robbins Stewart",
+    "genre": "educational",
+    "summary": "2 copies",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 5,
+    "title": "What To Expect When You’re Expecting",
+    "author": "Heidi Murkoff, Sharon Mazel",
+    "genre": "health",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 18,
+    "title": "When",
+    "author": "Daniel H. Pink",
+    "genre": "self-help",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 80,
+    "title": "Windows Scripting: Self-Paced Learning Guide",
+    "author": "Wislon",
+    "genre": "educational",
+    "summary": "In When, Pink distills cutting-edge research and data on timing and synthesizes them into a fascinating, readable narrative packed with irresistible stories and practical takeaways that give readers compelling insights into how we can live richer, more engaged lives.",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 107,
+    "title": "Winter Heart",
+    "author": "Robert Jordan",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 19,
+    "title": "Wisdom at Work",
+    "author": "Chip Conley",
+    "genre": "self-help",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 22,
+    "title": "Writing Down the Bones",
+    "author": "Natalie Goldberg",
+    "genre": "educational",
+    "summary": "At age 52, after selling the company he founded and ran as CEO for 24 years, rebel boutique hotelier Chip Conley was looking at an open horizon in midlife. Then he received a call from the young founders of Airbnb, asking him to help grow their disruptive start-up into a global hospitality giant. He had the industry experience, but Conley was lacking in the digital fluency of his 20-something colleagues. He didn't write code, or have an Uber or Lyft app on his phone, was twice the age of the average Airbnb employee, and would be reporting to a CEO young enough to be his son. Conley quickly discovered that while he'd been hired as a teacher and mentor, he was also in many ways a student and intern. What emerged is the secret to thriving as a mid-life worker: learning to marry wisdom and experience with curiosity, a beginner's mind, and a willingness to evolve, all hallmarks of the \"Modern Elder.”",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 144,
+    "title": "Yeh-Shen: A Cinderalla Story from China",
+    "author": "Ai-Ling Louie",
+    "genre": "fiction",
+    "summary": "Natalie Goldberg's word-of-mouth hit has sold well over half a million copies. Goldberg, who has conducted writing workshops for both beginners and professionals all over the United States, sees writing as a practice that helps us comprehend the value of our lives. With insight, humor, and practicality, she inspires writers and would-be writers alike to take the leap into writing creatively and well.",
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 93,
+    "title": "Zami: A New Spelling of My Name",
+    "author": "Audre Lorde",
+    "genre": "non-fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  },
+  {
+    "id": 141,
+    "title": "Zen Shorts",
+    "author": "Jon J Muth",
+    "genre": "fiction",
+    "summary": null,
+    "isCheckedOut": false,
+    "cover": null
+  }
+]
+}
